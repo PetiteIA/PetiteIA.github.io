@@ -6,13 +6,13 @@ We pioneer algorithms empowering autonomous robots to generate life-like behavio
 
 ## The Interactional Motivation Tutorial
 
-![Small loop](0910.png)
+[![Small loop](0910.png)](https://github.com/PetiteIA/schema_mechanism)
 
 [source](https://github.com/PetiteIA/schema_mechanism)
 
 
 ## The Petitcat project
 
-![Petitcat logo](Logo_Petite_IA.png)
+[![Petitcat logo](Petitcat_logo.png)](https://github.com/PetiteIA/petitcat)
 
 [source](https://github.com/PetiteIA/petitcat)
