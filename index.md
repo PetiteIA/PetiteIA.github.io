@@ -13,6 +13,8 @@ We pioneer algorithms empowering autonomous robots to generate life-like behavio
 
 ## The Petitcat project
 
+A robot driven by interactinal motivation that learns to master its sensorimotor apparatus through playing. 
+
 [![Petitcat logo](Petitcat_logo.png)](https://github.com/PetiteIA/petitcat)
 
 [source](https://github.com/PetiteIA/petitcat)
